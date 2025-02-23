@@ -21,7 +21,9 @@ I love exploring new technologies, and I'm always looking for new ways to improv
 - 👯 Looking to collaborate on **Innovative projects**
 
 - 💬 Ask me about **Python, Node.js, Express.js, MongoDB, MySQL, MsSQL**
+
 <br>
+
 ## 👀 Profile views
 
 ![Visitor Count](https://profile-counter.glitch.me/{tinniaru3005}/count.svg) 
